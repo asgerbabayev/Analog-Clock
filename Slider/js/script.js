@@ -1,7 +1,5 @@
 const sliders =  document.querySelectorAll('.slider');
 
-const totalSlider = sliders.length;
-
 const next = document.getElementById("next");
 const prev = document.getElementById("prev");
 function updateSlider(index) {
